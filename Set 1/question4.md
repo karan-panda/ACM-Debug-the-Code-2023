@@ -10,7 +10,9 @@ Input: height = [4,2,0,3,2,5]
 Output: 9
 
 ```
+
 ![Alt text](image-2.png)
+
 Constraints:
 - n == height.length
 - 1 <= n <= 2 * 104
