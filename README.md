@@ -34,6 +34,8 @@ Each question in the competition is worth a total of 15 marks, distributed as fo
 
 Each set typically consists of 4 questions, making a total of 60 marks for the entire set (15 marks per question x 4 questions). The combination of debugging, explanation, and correct output presentation encourages a comprehensive and effective approach to problem-solving in the competition.
 
+## Submission link:-  [Click here](https://forms.gle/TnmRrKXEjxRHkxbD7)
+
 <h2 align="center">
 🍀 Best of Luck, Debuggers! 🚀
 </h2>
