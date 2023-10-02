@@ -17,7 +17,7 @@ Are you up for the challenge? Gather your debugging tools 🛠️ and get ready 
 
 - ⏰ **Submission Deadlines:** Submit your code within the specified time limits. Late submissions won't be accepted.
 
-- 📊 **Scoring and Judging:** Scoring criteria are determined by organizers and final. Judges' decisions are binding. 📝
+- 📊 **Scoring and Judging:** SThe judging criteria and scoring methodology will be determined by the competition organizers and will be final. Decisions made by the judges are not open to dispute. 📝
 
 - 👏 **Code of Ethics:** Uphold ethical coding and debugging standards. Unethical behavior may lead to disqualification. 🏆
 
