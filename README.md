@@ -1,6 +1,6 @@
 <h1 align="center">ACM-Debug-the-Code-2023</h1>
 
-![image](https://github.com/karan-panda/ACM-Debug-the-Code-2023/assets/108183567/23331b7f-551f-424f-87dd-41b5b8e378a8)
+![debug-1024x646](https://github.com/karan-panda/ACM-Debug-the-Code-2023/assets/108183567/fcb5a0db-f8da-4e5f-b097-b93dcab85dff)
 
 ## 🚀 Welcome to "Debug the Code" Competition! 🧩
 
