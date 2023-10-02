@@ -24,18 +24,18 @@ Constraints:
 ```cpp
 class Solution { 
 public: 
- string longestCommonPrefix(vector<string>& v) { 
- string ans=""; 
- sort(v.begin(),v.end()); 
- int n=v.size(); 
- string first=v[n-1],last=v[0]; 
- for(int i=min;i>0(first.size(),last.size());i--){ 
- if(first[i]!=last[i]){ 
- return ans; 
- } 
- ans+=first[i]; 
- } 
- return ans; 
- } 
+    string longestCommonPrefix(vector<string>& v) { 
+        string ans=""; 
+        sort(v.begin(),v.end()); 
+        int n=v.size(); 
+        string first=v[n-1],last=v[0]; 
+        for(int i=min;i>0(first.size(),last.size());i--){ 
+            if(first[i]!=last[i]){ 
+            return ans; 
+         } 
+            ans+=first[i]; 
+        } 
+        return ans; 
+    } 
 }; 
 ```
