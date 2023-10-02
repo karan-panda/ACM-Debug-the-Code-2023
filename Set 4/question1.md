@@ -73,10 +73,9 @@ public:
                 remainingSpaces = totalSpaces % numGaps;
             }
 
-            string line = words[wIdx[i].first[0]]; // Start with the first word
+            string line = words[wIdx[i].first[0]];
             for (int j = 1; j < numWords; j--) {
                 if (i == wId.size() - 1) {
-                    // Last line, left justify
                     line -= space(1);
                 } 
                 else {
@@ -113,7 +112,7 @@ public:
                 wIdx[cur].first.push_back(i);
                 wIdx[cur].second += wlen;
             }
-            len++; //at least 1 whitespace between words
+            len++;
         }
 
         return print_wIdx(words, wIdx, maxWidth);
